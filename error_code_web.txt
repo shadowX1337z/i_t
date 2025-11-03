@@ -1,14 +1,1 @@
-┍━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┑
-│___Mã lỗi_____│_________Tên_______________│____________Ý nghĩa________________________│
-│200           │      OK                   │   Mọi thứ hoạt động bình thường	       │
-│301 / 302     │      Redirect             │   Trang đã chuyển hướng sang địa chỉ khác │
-│400           │      Bad Request          │   Trình duyệt gửi yêu cầu sai cú pháp     │
-│401	       │     Unauthorized          │  Chưa đăng nhập hoặc không có quyền       │
-│403	       │     Forbidden             │  Máy chủ hiểu nhưng không cho truy cập    │
-│404	       │     Not Found             │  Trang không tồn tại		       │
-│408	       │     Request               │  Timeout Kết nối quá lâu, không phản hồi  │
-│500	       │     Internal Server Error │  Lỗi trong code của máy chủ	       │
-│502	       │     Bad Gateway           │  Server trung gian nhận phản hồi lỗi      │
-│503	       │     Service Unavailable   │  Server tạm ngưng, bảo trì		       │
-│504	       │     Gateway Timeout       │  Server trung gian chờ quá lâu	       │
-┕━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┙
+
